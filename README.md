@@ -40,3 +40,22 @@ payload - sendo a mensagem ou informações que você deseja retornar ao usuári
   * partialContent - 206<br />
   * multiStatus - 207<br />
   * imUsed - 226<br />
+  * multipleChoice - 300 <br />
+  * movedPermanently - 301 <br />
+  * found - 302 <br />
+  * seeOther - 303 <br />
+  * notModified - 304 <br />
+  * useProxy - 304 <br />
+  * unused - 306 <br />
+  * temporaryRedirect - 307 <br />
+  * permanentRedirect - 308 <br />
+  * badRequest - 400 <br />
+  * unauthorized - 401 <br />
+  * paymentRequired - 402 <br />
+  * forbidden - 403 <br />
+  * notFound - 404 <br />
+  * methodNotAllowed - 405 <br />
+  * notAcceptable - 406 <br />
+  * proxyAuthenticationRequired - 407 <br />
+  * requestTimeout - 408 <br />
+  * conflict - 409 <br />
