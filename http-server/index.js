@@ -204,9 +204,9 @@ exports.expectationFailed = (res, payload) => {
     return res.status(417).json(payload)
 }
 
-//Status 408
+//Status 418
 exports.teapot = (res, payload) => {
-    return res.status(408).json(payload)
+    return res.status(418).json(payload)
 }
 
 //Status 421
