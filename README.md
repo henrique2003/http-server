@@ -59,3 +59,22 @@ payload - sendo a mensagem ou informações que você deseja retornar ao usuári
   * proxyAuthenticationRequired - 407 <br />
   * requestTimeout - 408 <br />
   * conflict - 409 <br />
+  * gone - 410 <br />
+  * lengthRequired - 411 <br />
+  * preconditionFailed - 412 <br />
+  * payloadTooLarge - 413 <br />
+  * uriTooLong - 414 <br />
+  * unsupportedMediaType - 415 <br />
+  * requestedRangeNotSatisfiable - 416 <br />
+  * expectationFailed - 417 <br />
+  * teapot - 418 <br />
+  * misdirectedRequest - 421 <br />
+  * unprocessableEntity - 422 <br />
+  * locked - 423 <br />
+  * failedDependency - 424 <br />
+  * tooEarly - 425 <br />
+  * upgradeRequired - 426 <br />
+  * preconditionRequired - 428 <br />
+  * tooManyRequests - 429 <br />
+  * requestHeaderFieldsTooLarge - 431 <br />
+  * unavailableForLegalReasons - 451 <br />
