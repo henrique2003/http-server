@@ -25,3 +25,17 @@ payload - sendo a mensagem ou informações que você deseja retornar ao usuári
 ![How to use](/function.png)
 
 ### Funções que podem ser usadas:
+
+    * continues - 100<br />
+    * switchingProtocols - 101<br />
+    * processing - 102<br />
+    * earlyHints - 103<br />
+    * ok - 200<br />
+    * created - 201<br />
+    * accepted - 202<br />
+    * nonAuthoritative - 203<br />
+    * noContent - 204<br />
+    * resetContent - 205<br />
+    * partialContent - 206<br />
+    * multiStatus - 207<br />
+    * imUsed - 226<br />
