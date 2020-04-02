@@ -1,5 +1,5 @@
 {
-  "name": "server-http-response",
+  "name": "http-server-response",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
