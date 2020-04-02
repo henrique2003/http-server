@@ -21,7 +21,5 @@
   ],
   "author": "Henrique de Melo Cristioglu",
   "description": "Galeria para automatizar as respostas http para o servidor.",
-  "dependencies": {
-    "server-http-response": "^1.0.0"
-  }
+  "dependencies": {}
 }

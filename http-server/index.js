@@ -27,7 +27,7 @@ exports.ok = (res, payload) => {
 }
 
 //Status 201
-exports.ok = (res, payload) => {
+exports.created = (res, payload) => {
     return res.status(201).json(payload)
 }
 
