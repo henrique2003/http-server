@@ -1,0 +1,24 @@
+{
+  "name": "http-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "http-server",
+    "http code",
+    "server code",
+    "response",
+    "status",
+    "statusCode",
+    "code" ,
+    "code status",
+    "status server",
+    "status generator",
+    "status code generator"
+  ],
+  "author": "Henrique de Melo Cristioglu",
+  "description": "Galeria para automatizar as respostas http para o servidor."
+}
