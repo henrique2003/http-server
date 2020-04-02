@@ -78,3 +78,14 @@ payload - sendo a mensagem ou informações que você deseja retornar ao usuári
   * tooManyRequests - 429 <br />
   * requestHeaderFieldsTooLarge - 431 <br />
   * unavailableForLegalReasons - 451 <br />
+  * serverError - 500 <br />
+  * notImplemented - 501 <br />
+  * badGataway - 502 <br />
+  * serviceUnavailable - 503 <br />
+  * gatawayTimeout - 504 <br />
+  * httpVersionNotSupported - 505 <br />
+  * variantAlsoNegotiates - 506 <br />
+  * insufficientStorage - 507 <br />
+  * loopDtected - 508 <br />
+  * notExtended - 510 <br />
+  * networkAuthenticationRequired - 511 <br />
