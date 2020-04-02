@@ -12,6 +12,7 @@ O pacote server-http-response tem como utilidade facilitar as respostas(res) fei
 #### Como importar?
 Para usar o pacote é necessário simplesmente importar o módulo e caturar suas funções:
 
+###### Exmeplo:
 ![How to import](/import.png)
 
 
