@@ -25,7 +25,7 @@ payload - sendo a mensagem ou informações que você deseja retornar ao usuári
 ###### Exmeplo:
 ![How to use](/function.png)
 
-### Funções que podem ser usadas:
+### Todas as funções que podem ser usadas:
 
   * continues - 100<br />
   * switchingProtocols - 101<br />
