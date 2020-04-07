@@ -1,13 +1,13 @@
-# server-http-response
+# http-server-res
 Pacote de respostas http feitas para o servidor.
 
 ### Como instalar?
-Use `npm install server-http-response` para installar o pacote em seu projeto:<br />
+Use `npm install http-server-res` para installar o pacote em seu projeto:<br />
 
 ![How to install](/install.gif)
 
 ### Para que serve?
-O pacote server-http-response tem como utilidade facilitar as respostas(res) feitas em suas requisições no backend.<br />
+O pacote http-server-res tem como utilidade facilitar as respostas(res) feitas em suas requisições no backend.<br />
 
 #### Como importar?
 Para usar o pacote é necessário simplesmente importar o módulo e caturar suas funções:
